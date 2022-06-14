@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELCOME&fontSize=90&desc=Hyesu's%20github%20profile&descAlignY=70&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELCOME&fontSize=90&desc=Hyesu's%20github%20profile&descAlignY=70&descAlign=60)
 
 - 👋 Hi, I’m @h2222y
 - 👀 I’m interested in ...
