@@ -34,7 +34,7 @@ I really want to develop proudcts that all users can use conveniently!🌱<br/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 </p>
 
-<p>WEB-Back</h6>
+<p>WEB-BACK</p>
 
 <p display="inline-block">
 <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white">
