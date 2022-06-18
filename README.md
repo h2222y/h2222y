@@ -13,12 +13,14 @@ I enjoy work out, read a book.📫<br/>
 I really want to develop proudcts that all users can use conveniently!🌱<br/>
 <br/>
 
-<h3>SKills</h3>
+<h3>⚒️SKills</h3>
 <h4>Platforms & Languages</h4>
 <p display="inline-block">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
+
 
 <!---
 h2222y/h2222y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
