@@ -16,7 +16,7 @@ I really want to develop proudcts that all users can use conveniently!🌱<br/>
 <h3>⚒️SKills</h3>
 <h4>Platforms & Languages</h4>
 
-<h5>Embedded</h5>
+<p>EMBEDDED</p>
 
 <p display="inline-block">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
