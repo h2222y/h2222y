@@ -17,7 +17,7 @@ I really want to develop proudcts that all users can use conveniently!🌱<br/>
 <h4>Platforms & Languages</h4>
 <p display="inline-block">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C_+_+&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
